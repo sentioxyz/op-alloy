@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ProtocolVersion","ProtocolVersionError"],"mod":["attributes","payload_v3","payload_v4","superchain"],"struct":["OptimismAttributesWithParent","OptimismExecutionPayloadEnvelopeV3","OptimismExecutionPayloadEnvelopeV4","OptimismPayloadAttributes","ProtocolVersionFormatV0","SuperchainSignal"]};
